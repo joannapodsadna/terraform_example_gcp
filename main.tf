@@ -1,5 +1,5 @@
 provider "google" {
-  project = "tidy-daylight-231621"
+  project = "<name-of-project>"
   region  = "europe-west3"
   zone    = "europe-west3-c"
 }
